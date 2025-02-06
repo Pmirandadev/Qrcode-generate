@@ -16,14 +16,14 @@ Este é um projeto simples de um site que gera um QR Code a partir de um link fo
 4. O QR Code será exibido na tela e poderá ser escaneado.
 
 ## Estrutura do Projeto
-
+```
 qr-code-generator/
 │
 ├── index.html # Arquivo principal HTML
 ├── styles.css # Arquivo de estilos CSS
 ├── script.js # Arquivo de lógica JavaScript
 └── README.md # Este arquivo de documentação
-
+```
 
 ## Tecnologias Utilizadas
 
