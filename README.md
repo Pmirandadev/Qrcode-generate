@@ -54,10 +54,3 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 4. Um QR Code será gerado e poderá ser escaneado para acessar o Google.
 
 ---
-
-## Captura de Tela
-
-![Captura de Tela do Gerador de QR Code](screenshot.png)  
-*(Adicione uma captura de tela do projeto aqui, se possível.)*
-
----
