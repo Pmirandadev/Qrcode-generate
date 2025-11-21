@@ -19,10 +19,10 @@ Este é um projeto simples de um site que gera um QR Code a partir de um link fo
 ```
 qr-code-generator/
 │
-├── index.html # Arquivo principal HTML
-├── styles.css # Arquivo de estilos CSS
-├── script.js # Arquivo de lógica JavaScript
-└── README.md # Este arquivo de documentação
+├── index.html
+├── styles.css 
+├── script.js 
+└── README.md 
 ```
 
 ## Tecnologias Utilizadas
@@ -39,10 +39,6 @@ qr-code-generator/
 3. Commit suas mudanças (`git commit -m 'Adicionando nova feature'`).
 4. Push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
